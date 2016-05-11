@@ -6,6 +6,3 @@ Pato
  - puntotres
  
 unicornio
-
-
-qwert
