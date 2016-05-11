@@ -6,5 +6,3 @@ Pato
  - puntotres
  
 unicornio
-
-rosas
